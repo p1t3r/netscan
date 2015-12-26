@@ -1,2 +1,2 @@
 # netscan
-Port scanner for a whole network
+Port scanner for a predefined network
